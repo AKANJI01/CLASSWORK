@@ -11,4 +11,3 @@ function multiply(arr){
     return array2
 }
 
-console.log(multiply([1,2,3,4]))
